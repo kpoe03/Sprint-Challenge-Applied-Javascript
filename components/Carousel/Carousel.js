@@ -44,7 +44,7 @@ function slideShow() {
   let turntable = document.createElement('img');
   turntable.src = "./assets/carousel/turntable.jpeg";
   carousel.appendChild(turntable);
-  ]
+  
 
   let rightBtn = document.createElement('div');
   rightBtn.classList.add('right-button');
